@@ -1,0 +1,16 @@
+container-fluid. {
+position: absolute;
+width: 130px;
+height: 32px;
+left: 120px;
+top: 12px;
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 180%;
+}
+#button {
+	float: : right;
+}
